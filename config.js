@@ -80,57 +80,57 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6282376267531', 'Aisyah', true],
-['6281361281833', 'Aldi', true]
+['60177302593', 'Qyle', true],
+['601137009378', 'Izzat', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6283838186170'
-global.nomorown = '6281361281833'
-global.nomorown1 = '6281361281833'
-global.nomorown2 = '6282376267531'
-global.nomorwa = '0'
+global.nomorbot = '60177302593'
+global.nomorown = '60177302593'
+global.nomorown1 = '60177302593'
+global.nomorown2 = '601137009378'
+global.nomorwa = '60177302593'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
 global.author = 'Aʟᴅɪ X Aɪsʏᴀʜ'
-global.namebot = '​ 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝐘𝐮𝐬𝐡𝐢𝐧𝐨 𝐌𝐝'
-global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
-global.wm = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.namebot = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 ✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊💘 𖥔 ࣪ ᥫ᭡'
+global.media = 'https://telegra.ph/file/7a3c2975aac8cc97f35c3.jpg'
+global.wm = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡ '
 global.watermark = wm
-global.wm2 = '𝒀𝒖𝒔𝒉𝒊𝒏𝒐 𝑴𝒅 '
+global.wm2 = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉`
-global.stickpack = '𝑨𝒍𝒅𝒊 𝐗 𝑨𝒊𝒔𝒚𝒂𝒉'
-global.stickauth = `© Yushino MD`
+global.titlebot = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
+global.stickpack = '✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
+global.stickauth = '© ✧ ˖ ࣪ ‹  𝕼𝖞𝖑𝖊𝕭𝖔𝖙𝖟 🐻 𖥔 ࣪ ᥫ᭡'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= 'Aldi'
-global.nameown2 = 'Aisyah'
+global.nameown1= 'Qyle'
+global.nameown2 = 'Izzat'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = 'https://linktr.ee/qylensembotz'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/_b4c00t4an_s3l3b'
-global.sgh = 'https://github.com/hyuura-official' //github
-global.sgc = 'https://chat.whatsapp.com/LmbsOrpSGEpDdFdpuukmmP' //group whatsapp
+global.sig = 'https://instagram.com/jstme._____'
+global.sgh = 'https://github.com' //github
+global.sgc = 'https://linktr.ee/qylensembotz' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://youtube.com/channel/UCjoPsysjCn2Qa0dRalUb2mg'
+global.snh = 'https://linktr.ee/qylensembotz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '0813 6128 1833'
+global.pdana = '-'
 global.povo = '-'
-global.pgopay = '0813 6128 1833'
+global.pgopay = '-'
 global.plinkaja = '-' //link aja
-global.ppulsa = '0813 6128 1833'
-global.ppulsa2 = '083838186170'
+global.ppulsa = '-'
+global.ppulsa2 = '-'
 global.psaweria = 'https://saweria.co/hyuura'
 
 
@@ -343,9 +343,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/hyuura-official"
+global.urlnya = "https://www.instagram.com/jstme._____"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '0813 6128 1833'
+global.phn = '60177302593'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
